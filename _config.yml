@@ -1,7 +1,7 @@
 name: Writing The Science Fiction Film
 favicon: null
-layout_spectrum: 0.8586890830192715
-typography_spectrum: 0.9277564403600991
+layout_spectrum: 0
+typography_spectrum: 0.55891
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.00848373188637197
-  lightness: 0.005922297248616815
-  saturation: 0.1860291517805308
-  rhythmicContrast: 0.14324094890616834
+    - '#bedfc0'
+    - '#ff7d6b'
+    - '#000000'
+    - '#591c09'
+    - '#a28064'
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []
