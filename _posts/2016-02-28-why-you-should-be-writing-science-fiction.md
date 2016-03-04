@@ -3,26 +3,26 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: ''
-datePublished: '2016-02-28T12:59:23.472Z'
-dateModified: '2016-02-28T12:52:36.795Z'
-title: Why You Should Be Writing Science Fiction
+description: "If you're writing screenplays then here's the top five reasons why you should be considering science fiction for your next project."
+datePublished: '2016-03-04T12:28:50.635Z'
+dateModified: '2016-03-04T12:27:47.698Z'
+title: Why Should You Write Science Fiction?
 author: []
+sourcePath: _posts/2016-02-28-why-you-should-be-writing-science-fiction.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-28-why-you-should-be-writing-science-fiction.md
-published: true
 url: why-you-should-be-writing-science-fiction/index.html
 _type: Article
 
 ---
-# Why You Should Be Writing Science Fiction
+# Why Should You Write Science Fiction?
 
 There are a ton
 of good reasons why you should be writing science fiction. I'll start with the
