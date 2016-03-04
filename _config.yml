@@ -1,7 +1,7 @@
 name: Writing The Science Fiction Film
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.30867
+layout_spectrum: 0.30205
+typography_spectrum: 0.31672
 title: Writing the Science Fiction Film
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#2b3c44'
     - '#cbdce6'
   brandStrength: 0.5
-  lightness: 1
+  lightness: 0.625
   saturation: 0.5
   rhythmicContrast: 0
 purpose: []
