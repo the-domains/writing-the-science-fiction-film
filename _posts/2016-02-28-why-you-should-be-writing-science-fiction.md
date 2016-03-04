@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: "If you're writing screenplays then here's the top five reasons why you should be considering science fiction for your next project."
-datePublished: '2016-03-04T12:28:50.635Z'
+datePublished: '2016-03-04T12:29:41.637Z'
 dateModified: '2016-03-04T12:27:47.698Z'
 title: Why Should You Write Science Fiction?
 author: []
